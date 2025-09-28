@@ -1,6 +1,11 @@
 # 🧮 Laboratorio 7 – Teoría de la Computación
 
 Erick Barrera 22934 
+# 🧮 Laboratorio 7 – link video en yt
+
+https://youtu.be/ixdlxViwsyE
+
+
 
 ## 📌 Descripción
 Este laboratorio aborda la **eliminación de producciones épsilon en gramáticas libres de contexto (GLC)**.  
